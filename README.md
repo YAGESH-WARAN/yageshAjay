@@ -1,6 +1,4 @@
 # yageshAjay
-[7:28 am, 03/10/2024] Yuvaraj: Ok da
-[2:12 pm, 03/10/2024] Yuvaraj: # Largest prime factor
 This problem is a programming version of Problem 3 from projecteuler.net
 
 The prime factors of 13195 are 5,7,13  and 29.
